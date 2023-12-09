@@ -4,6 +4,7 @@ metadata:
   creationTimestamp: null
   name: nodejs-app-multi-components-repo
 spec:
+  replicas: 1
   selector: {}
   strategy: {}
   template:
